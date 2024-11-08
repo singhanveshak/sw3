@@ -1,3 +1,5 @@
+#ADDING COMMENTS SHOWING CHANGES
+
 # Define the steps for each chord type
 chord_steps = {
     "Major": [4, 7],
